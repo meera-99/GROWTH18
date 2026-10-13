@@ -3,7 +3,7 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: #EAEAEA;
-    overflow: hidden;
+    overflow-x: hidden;
 
 }
 
@@ -230,7 +230,6 @@ body {
 .mainanm{
     display: flex;
     gap:30px;
-    
     animation: scroll 20s steps(5);
 }
 
@@ -245,3 +244,4 @@ body {
 .buttons{
     display: flex;
 }
+
